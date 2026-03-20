@@ -2,6 +2,10 @@
 
 A simple in-memory form builder built with React, TypeScript, and MUI.
 
+<img src="./screenshots/list.png" width="600" />
+
+<img src="./screenshots/builder.png" width="600" />
+
 ## Features
 
 - View a list of created forms
